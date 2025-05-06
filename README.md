@@ -11,4 +11,4 @@ g++ main.cpp -std=c++20 -o task
 ./task test_file.txt
 ```
 
-Unit-тесты находятся в файле Google_tests/test.cpp
+Весь исходный код для решения задачи находится в файле main.cpp, unit-тесты находятся в файле Google_tests/test.cpp.
