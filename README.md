@@ -1,0 +1,14 @@
+# YADRO_test
+Test task for internship
+
+Для компиляции используйте следующую команду:
+```
+g++ main.cpp -std=c++20 -o task
+```
+
+Для запуска программы испльзуйте следующую команду:
+```
+./task test_file.txt
+```
+
+Unit-тесты находятся в файле Google_tests/test.cpp
