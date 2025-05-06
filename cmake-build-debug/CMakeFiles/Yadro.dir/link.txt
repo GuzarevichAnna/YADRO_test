@@ -1,0 +1,1 @@
+/usr/bin/clang++-16 -g CMakeFiles/Yadro.dir/main.cpp.o -o Yadro 

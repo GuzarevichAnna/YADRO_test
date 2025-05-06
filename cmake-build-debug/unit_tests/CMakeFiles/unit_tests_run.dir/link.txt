@@ -1,0 +1,1 @@
+/usr/bin/clang++-16 -g CMakeFiles/unit_tests_run.dir/test.cpp.o -o unit_tests_run  ../lib/libgtest.a ../lib/libgtest_main.a ../lib/libgtest.a 
